@@ -1,8 +1,23 @@
-# React + Vite
+# Tic Tac Toe Game (User vs. Computer)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Tic Tac Toe** game where the user plays against the computer. This project is built using **React** to handle the game logic and user interactions. The computer player is equipped with basic AI that blocks the user's winning moves and tries to win the game.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Game Screenshot](https://tic-tac-toe-zeta-teal.vercel.app/)  
+*Insert a screenshot or GIF of your game interface*
+
+## Features
+
+- **Player vs. Computer** gameplay
+- **Basic AI** for the computer player (blocks user from winning and attempts to win)
+- **Winner detection**: The game checks for a winner after each move
+- **Draw detection**: Declares a draw when all squares are filled and no one wins
+- **Score tracking**: The game tracks and displays the number of wins for both the user and the computer
+- **Reset functionality**: Reset the game board and scores at any time
+- **Responsive design**: Works well across desktop and mobile devices
+
+## Technologies Used
+
+- **React**: For building the user interface and managing state
+- **CSS/Tailwind CSS** (optional): For responsive styling and layout
