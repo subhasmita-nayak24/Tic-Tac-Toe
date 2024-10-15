@@ -4,7 +4,7 @@ A simple and interactive **Tic Tac Toe** game where the user plays against the c
 
 ## Demo
 
-![Website Link](https://tic-tac-toe-zeta-teal.vercel.app/)  
+[Website Link](https://tic-tac-toe-zeta-teal.vercel.app/)  
 
 ## Features 🚀
 
